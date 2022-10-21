@@ -88,6 +88,7 @@ Technology developer, technology management.
 github:https://github.com/lyjmry
 
 Rich experience in web3 industry, experienced file coin, phala, epik，miner。
+------------------------
 
 Max:
 
