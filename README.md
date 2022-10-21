@@ -109,7 +109,7 @@ Technology developer, technology management.
 
 Rich experience in web3 industry, experienced file coin, phala, epik，miner。
 
-参与设计与管理bee节点数据可视化监控系统，测试网搭建与管理3000+mienr
+Participate in the design and management of bee node data visualization monitoring system, test network construction and management 3000+mienr.
 
 github:https://github.com/lyjmry
 
