@@ -24,6 +24,9 @@ Community Media:
 ----------------
 Tutorial Docs:
 
+development doc：
+
+Node docs:
 
 -----------------
 RPC:
@@ -59,7 +62,25 @@ Shenzhen-50
 
 -----------------
 Hackathon：
+The EthSwarm China Hackathon is planned to be held in Chengdu, China in Q1 2023.
 
+Competition category:
+
+infrastructure
+
+1 first prize
+
+2 second prizes
+
+3 third prizes
+
+Ecological application
+
+1 first prize
+
+2 second prizes
+
+3 third prizes
 
 
 
