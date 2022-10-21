@@ -78,9 +78,10 @@ Hackathon participation projects: 15+
 
 
 # About why is us：
-Shu brother：
+--------------------
+ Shu brother：
 -------------------
-Lu:
+# Lu:
 GuIAn New district Dou Dian Dou Technology Co., Ltd CEO.Co-founder of Darkmistlabs
 
 Technology developer, technology management.
@@ -88,9 +89,10 @@ Technology developer, technology management.
 github:https://github.com/lyjmry
 
 Rich experience in web3 industry, experienced file coin, phala, epik，miner。
+
 ------------------------
 
-Max:
+ Max:
 
 JasonHan:
 
