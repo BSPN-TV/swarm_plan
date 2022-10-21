@@ -28,10 +28,23 @@ Tutorial Docs:
 -----------------
 RPC:
 
+Xian-China:
+Shanghai-Chian:
+Shenzhen-Chian:
+Guizhou-Chian
+Chendu-Chian
+Hongkong-Chian
+
+
 
 
 -----------------
 Bee miner:
+Shanghai-50
+Xian-50
+Hongkong-50
+Chendu-50
+Shenzhen-50
 
 
 
@@ -46,9 +59,9 @@ Number of people affected: 20w+
 
 Community Developers: 300+
 
-Number of self-built nodes: 300+
+Number of self-built nodes: 200+
 
-Free high-speed nodes: 5+
+Free high-speed RPC: 5+
 
 Hackathon participation projects: 15+
 
@@ -57,8 +70,15 @@ Hackathon participation projects: 15+
 
 # About why is us：
 Shu brother：
-
+-------------------
 Lu:
+GuIAn New district Dou Dian Dou Technology Co., Ltd CEO.Co-founder of Darkmistlabs
+
+Technology developer, technology management.
+
+github:https://github.com/lyjmry
+
+Rich experience in web3 industry, experienced file coin, phala, epik，miner。
 
 Max:
 
