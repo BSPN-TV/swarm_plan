@@ -1,4 +1,4 @@
-# Swarm_plan
+# swarm_plan
 # EthSwarm
 The is about Swarm
 
