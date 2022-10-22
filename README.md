@@ -15,6 +15,8 @@ The is about Swarm
 
 6.Host China EthSwarm China Hackathon.
 
+7.Community Bounty Tasks
+
 
 
 # what should we do：
@@ -82,8 +84,15 @@ Ecological application
 
 3 third prizes
 
+----------------------------
 
+Community Bounty Tasks：
 
+Why will a bounty task be issued based on the community modification (upgrade) proposal and the needs of the foundation, and a public tender will be held.
+To ensure that Swarm develops with high quality in the wisdom and power of the crowd. At the same time,
+we will vote on the community's proposal, and the proposer who votes will be rewarded, and the proposal will be transferred to the bounty task.
+
+-------------------------------------
 # The effect achieved:
 Number of people affected: 20w+
 
