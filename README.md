@@ -131,7 +131,7 @@ Founder & CEO of Shenzhen Feige Technology Co., Ltd.;
 
 Co-founder of [DarkMistLabs](https://github.com/darkmistlabs), a Web3 labs dedicated to exciting DAPP design & development.
 
-6 years of experience in blockchain research, development and product design, worked in the world's top 3 Ethereum mining pool - [f2pool](https://www.f2pool.com);
+6 years of experience in blockchain research, development and product design, worked in the world's top 3 Ethereum mining pool - [f2pool](https://www.f2pool.com).
 
 Creator of MinerDAO community, which has accumulated more than 10,000 active miners including Filecoin, Chia, Bzz, Aleo etc.
 
