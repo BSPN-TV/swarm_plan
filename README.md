@@ -133,9 +133,9 @@ Co-founder of [DarkMistLabs](https://github.com/darkmistlabs), a Web3 labs dedic
 
 6 years of experience in blockchain research, development and product design, worked in the world's top 3 Ethereum mining pool - [f2pool](https://www.f2pool.com).
 
-Creator of MinerDAO community, which has accumulated more than 10,000 active miners including Filecoin, Chia, Bzz, Aleo etc.
+Creator of [MinerDAO community](https://github.com/minerdao), which has accumulated more than 10,000 active miners including Filecoin, Chia, Bzz, Aleo etc.
 
-Filecoin official Community-China maintainer, as one of the 8 community ambassadors of Filecoin.
+[Filecoin official Community-China](https://github.com/filecoin-project/community-china) maintainer, as one of the 8 community ambassadors of Filecoin.
 
 
 # JasonHan:
