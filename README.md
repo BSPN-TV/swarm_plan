@@ -64,7 +64,7 @@ Shenzhen-50
 
 -----------------
 Hackathon：
-The EthSwarm China Hackathon is planned to be held in Chengdu, China in Q1 2023.
+The EthSwarm China Hackathon is planned to be held in Chengdu, China in Q1 2023.held every other year
 
 Competition category:
 
