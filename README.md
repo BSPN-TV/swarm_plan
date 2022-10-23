@@ -96,10 +96,14 @@ Ecological application
 
 Community Bounty Tasks：
 
-Why will a bounty task be issued based on the community modification (upgrade) proposal and the needs of the foundation, and a public tender will be held.
-To ensure that Swarm develops with high quality in the wisdom and power of the crowd. At the same time,
-we will vote on the community's proposal, and the proposer who votes will be rewarded, and the proposal will be transferred to the bounty task.
-Set up scholarships for college students in the swarm ecology
+1. According to community modification (upgrade) proposals and the needs of the foundation, reward tasks will be issued and public bidding will be conducted.
+Ensuring that Swarm thrives on high quality in the wisdom and power of the crowd.
+
+2.At the same time,We will vote on proposals from the community, the proposers who vote will be rewarded, and the proposals will be transferred to the bounty task.
+
+3. Set up college student scholarships in the group ecology.
+
+4. Form a WeChat group of community users and community developers to gather users.
 
 -------------------------------------
 # The effect achieved:
@@ -114,10 +118,10 @@ Free high-speed RPC: 5+
 Hackathon participation projects: 15+
 
 
-
+--------------------
 
 # About why is us：
---------------------
+
 # Neo ：
 Author of 《the evolutionary history of blockchain》.
 
