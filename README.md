@@ -109,7 +109,17 @@ Hackathon participation projects: 15+
 
 # About why is us：
 --------------------
- Shu brother：
+#Neo ：
+Author of 《the evolutionary history of blockchain》.
+
+A loyal fan community of 10thousand people. 
+
+Columnists for a variety of well-known blockchain media. 
+
+Swarm's introduction video has been read by more than one million people. 
+
+People who love blockchain and have  own understanding of blockchain ecological construction. 
+
 -------------------
 # Lu:
 GuIAn New district Dou Dian Dou Technology Co., Ltd CEO.Co-founder of Darkmistlabs
