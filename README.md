@@ -151,7 +151,7 @@ Creator of [MinerDAO community](https://github.com/minerdao), which has accumula
 
 
 # Jason:
-With 15 years of experience in development ,  currently working in a Hong Kong listed and top Internet company, responsible for managing the platform architecture team and web3 department of the group's R&D center.
+With 15 years of experience in development , currently working in a Hong Kong listed and top Internet company responsible for managing the platform architecture team and web3 department.
 
 Co-founder of [DarkMistLabs](https://github.com/darkmistlabs), a Web3 labs dedicated to exciting DAPP design & development.
 
