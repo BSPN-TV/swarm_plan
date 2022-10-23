@@ -15,8 +15,9 @@ The is about Swarm
 
 6.Host China EthSwarm China Hackathon.
 
-7.Community Bounty Tasks
+7.Community Bounty Tasks.
 
+8.Host Swarm talks in different cities every two months.
 
 
 # what should we do：
