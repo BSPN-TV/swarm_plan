@@ -15,7 +15,7 @@ The is about Swarm
 
 6.Host China EthSwarm China Hackathon.
 
-7.Community Bounty Tasks.
+7.Community
 
 8.Host Swarm talks in different cities every two months.
 
@@ -94,7 +94,7 @@ Ecological application
 
 ----------------------------
 
-Community Bounty Tasks：
+Community：
 
 1. According to community modification (upgrade) proposals and the needs of the foundation, reward tasks will be issued and public bidding will be conducted.
 Ensuring that Swarm thrives on high quality in the wisdom and power of the crowd.
