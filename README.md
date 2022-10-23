@@ -152,8 +152,11 @@ Creator of [MinerDAO community](https://github.com/minerdao), which has accumula
 
 # Jason:
 With 15 years of experience in development ,  currently working in a Hong Kong listed and top Internet company, responsible for managing the platform architecture team and web3 department of the group's R&D center.
+
 Co-founder of [DarkMistLabs](https://github.com/darkmistlabs), a Web3 labs dedicated to exciting DAPP design & development.
-Participated in the ecological development of swarm, filecoin, ETH and other projects, currently leading the team to develop aptos and aleo projects
+
+Participated in the ecological development of swarm, filecoin, ETH and other projects, currently leading the team to develop aptos and aleo projects.
+
 # What else do we need:
 
 多少bzz或者dai  
