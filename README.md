@@ -9,9 +9,9 @@ The is about Swarm
 
 3.Free high-speed RPC for the community.
 
-4.Build a nanny-level node building tutorial for the community.
+4.Write ultra-detailed node building documentation for the community.
 
-5.Build a batch of Beee nodes in China to ensure network stability.
+5.Build a batch of Bee nodes in China to ensure network stability.
 
 6.Host China EthSwarm China Hackathon.
 
@@ -35,15 +35,15 @@ RPC:
 
 Xian-China:
 
-Shanghai-Chian:
+Shanghai-China:
 
-Shenzhen-Chian:
+Shenzhen-China:
 
-Guizhou-Chian：
+Guizhou-China：
 
-Chendu-Chian：
+Chendu-China：
 
-Hongkong-Chian：
+Hongkong-China：
 
 
 
@@ -64,7 +64,7 @@ Shenzhen-50
 
 -----------------
 Hackathon：
-The EthSwarm China Hackathon is planned to be held in Chengdu, China in Q1 2023.held every other year
+The EthSwarm China Hackathon is planned to be held in Chengdu, China in Q1 2023 and Q3 2023.
 
 Competition category:
 
@@ -91,6 +91,7 @@ Community Bounty Tasks：
 Why will a bounty task be issued based on the community modification (upgrade) proposal and the needs of the foundation, and a public tender will be held.
 To ensure that Swarm develops with high quality in the wisdom and power of the crowd. At the same time,
 we will vote on the community's proposal, and the proposer who votes will be rewarded, and the proposal will be transferred to the bounty task.
+Set up scholarships for college students in the swarm ecology
 
 -------------------------------------
 # The effect achieved:
@@ -112,7 +113,7 @@ Hackathon participation projects: 15+
 #Neo ：
 Author of 《the evolutionary history of blockchain》.
 
-A loyal fan community of 10thousand people. 
+A loyal fan community of 10thousand people and WeChat public account 200,000 people.
 
 Columnists for a variety of well-known blockchain media. 
 
