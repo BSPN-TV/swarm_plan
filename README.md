@@ -2,7 +2,7 @@
 # EthSwarm
 The is about Swarm
 
-# What are we going to do：
+# What are we going to do?
 1.Swarm does Chinese interpretation.
 
 2.Provide technical documentation to the community.
@@ -20,27 +20,29 @@ The is about Swarm
 8.Host Swarm talks in different cities every two months.
 
 
-# what should we do：
+# What is our plan?
 ----------------
-Community Media: WeChat public:goahead8008
+#### Community Media
 
-twitter:
+WeChat public account: goahead8008
 
-TG:
+Twitter:
 
-discord:
+Telegram:
 
-github:https://github.com/EthSwarm-CHINA/
+Discord:
+
+Github: https://github.com/EthSwarm-CHINA
 
 ----------------
-Tutorial Docs:
+#### Tutorial Docs
 
-development doc：
+Development doc：
 
 Node docs:
 
 -----------------
-RPC:
+#### RPC
 
 Xian-China:
 
@@ -54,11 +56,8 @@ Chendu-China：
 
 Hongkong-China：
 
-
-
-
 -----------------
-Bee miner:
+#### Bee miner
 Shanghai-50
 
 Xian-50
@@ -69,10 +68,8 @@ Chendu-50
 
 Shenzhen-50
 
-
-
 -----------------
-Hackathon：
+#### Hackathon
 The EthSwarm China Hackathon is planned to be held in Chengdu, China in Q1 2023 and Q3 2023.
 
 Competition category:
@@ -85,7 +82,7 @@ infrastructure
 
 3 third prizes
 
-Ecological application
+#### Ecological application
 
 1 first prize
 
@@ -100,7 +97,7 @@ Community：
 1. According to community modification (upgrade) proposals and the needs of the foundation, reward tasks will be issued and public bidding will be conducted.
 Ensuring that Swarm thrives on high quality in the wisdom and power of the crowd.
 
-2.At the same time,We will vote on proposals from the community, the proposers who vote will be rewarded, and the proposals will be transferred to the bounty task.
+2. At the same time,We will vote on proposals from the community, the proposers who vote will be rewarded, and the proposals will be transferred to the bounty task.
 
 3. Set up college student scholarships in the group ecology.
 
@@ -118,12 +115,11 @@ Free high-speed RPC: 5+
 
 Hackathon participation projects: 15+
 
-
 --------------------
 
 # About why is us：
 
-# Neo ：
+### Neo 
 Author of 《the evolutionary history of blockchain》.
 
 A loyal fan community of 10thousand people and WeChat public account 200,000 people. ID :goahead8008(树哥解读）
@@ -132,10 +128,10 @@ Columnists for a variety of well-known blockchain media.
 
 Swarm's introduction video has been read by more than one million people. 
 
-People who love blockchain and have  own understanding of blockchain ecological construction. 
+People who love blockchain and have own understanding of blockchain ecological construction. 
 
 -------------------
-# Lu:
+### Lu
 GuIAn New district Dou Dian Dou Technology Co., Ltd CEO.Co-founder of Darkmistlabs
 
 Technology developer, technology management.
@@ -144,13 +140,11 @@ Rich experience in web3 industry, experienced file coin, phala, epik，miner。
 
 Participate in the design and management of bee node data visualization monitoring system, test network construction and management 3000+mienr.
 
-github:https://github.com/lyjmry
-
-
+Github: https://github.com/lyjmry
 
 ------------------------
 
-# Max:
+### Max
 Founder & CEO of Shenzhen Feige Technology Co., Ltd.;
 
 Co-founder of [DarkMistLabs](https://github.com/darkmistlabs), a Web3 labs dedicated to exciting DAPP design & development.
@@ -162,19 +156,18 @@ Creator of [MinerDAO community](https://github.com/minerdao), which has accumula
 [Filecoin official Community-China](https://github.com/filecoin-project/community-china) maintainer, as one of the 8 community ambassadors of Filecoin.
 
 
-# Jason:
+### Jason:
 With 15 years of experience in development ,  currently working in a Hong Kong listed and top Internet company, responsible for managing the platform architecture team and web3 department of the group's R&D center.
 
 Co-founder of [DarkMistLabs](https://github.com/darkmistlabs), a Web3 labs dedicated to exciting DAPP design & development.
 
 Participated in the ecological development of swarm, filecoin, ETH and other projects, currently leading the team to develop aptos and aleo projects.
 
-# What else do we need:
+# What else do we need?
 
-1.Officially authorized and supported by Swarm
+1. Officially authorized and supported by Swarm.
 
-
-2.Need financial help (bzz or dai)
+2. Need financial help (bzz or dai).
 
 
 
