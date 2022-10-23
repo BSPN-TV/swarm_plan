@@ -22,7 +22,14 @@ The is about Swarm
 
 # what should we do：
 ----------------
-Community Media:
+Community Media: WeChat public:goahead8008
+twitter:
+
+TG:
+
+discord:
+
+github:https://github.com/EthSwarm-CHINA/
 
 ----------------
 Tutorial Docs:
@@ -111,7 +118,7 @@ Hackathon participation projects: 15+
 
 # About why is us：
 --------------------
-#Neo ：
+# Neo ：
 Author of 《the evolutionary history of blockchain》.
 
 A loyal fan community of 10thousand people and WeChat public account 200,000 people. ID :goahead8008(树哥解读）
@@ -151,7 +158,7 @@ Creator of [MinerDAO community](https://github.com/minerdao), which has accumula
 
 
 # Jason:
-With 15 years of experience in development , currently working in a Hong Kong listed and top Internet company responsible for managing the platform architecture team and web3 department.
+With 15 years of experience in development ,  currently working in a Hong Kong listed and top Internet company, responsible for managing the platform architecture team and web3 department of the group's R&D center.
 
 Co-founder of [DarkMistLabs](https://github.com/darkmistlabs), a Web3 labs dedicated to exciting DAPP design & development.
 
@@ -159,13 +166,10 @@ Participated in the ecological development of swarm, filecoin, ETH and other pro
 
 # What else do we need:
 
-多少bzz或者dai  
-需要他们改动经济模型
-需要他们信息同步
-需要他们同步宣传我们
+1.Officially authorized and supported by Swarm
 
 
-
+2.Need financial help (bzz or dai)
 
 
 
