@@ -113,7 +113,7 @@ Hackathon participation projects: 15+
 #Neo ：
 Author of 《the evolutionary history of blockchain》.
 
-A loyal fan community of 10thousand people and WeChat public account 200,000 people.
+A loyal fan community of 10thousand people and WeChat public account 200,000 people. ID :goahead8008(树哥解读）
 
 Columnists for a variety of well-known blockchain media. 
 
